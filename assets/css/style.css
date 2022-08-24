@@ -79,5 +79,25 @@ body{
 }
 
 
+.mb-50{
+    margin-bottom: 50px ;
+}
+
 /*Estilos da pagina contato.html*/
 
+.tm-titulo{
+    color: rgb(9, 9, 65);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 70px;
+}
+.container {
+    display: flex;
+    flex-flow: row ;
+    justify-content: center;
+    align-items: center;
+}
+
+.ml-50{
+    margin-left: 50px;
+}
